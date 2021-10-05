@@ -2,6 +2,12 @@
 /* CSS Document */
 
 @import url("index.html.css");
+header{
+	background-color: black;
+}
 body{
 	background-color: hot hotpink;
+}
+.iframe{
+	align-content: center;
 }
