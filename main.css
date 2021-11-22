@@ -3,10 +3,11 @@
 
 @import url("index.html.css");
 header{
-	background-image: image("ssbkgrnd.jpg");
+	background color: 
 }
 body{
 	background background-image: image("cmyk ridge.jpeg");
+	background background-size: contain;
 }
 .iframe{
 	align-content: center;
