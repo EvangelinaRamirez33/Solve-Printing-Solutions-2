@@ -3,10 +3,10 @@
 
 @import url("index.html.css");
 header{
-	background-color: black;
+	background-image: image("cmyk ridge.jpeg");
 }
 body{
-	background-color: hot hotpink;
+	background-color: hotpink;
 }
 .iframe{
 	align-content: center;
