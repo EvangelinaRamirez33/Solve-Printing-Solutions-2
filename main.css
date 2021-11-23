@@ -1,10 +1,25 @@
 @charset "UTF-8";
-header{
-	background color: 
-}
+header
 body{
-	background background-image: url("images/ssbkgrnd.jpg");
-	background background-size: contain;
+	<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Style the body */
+body {
+font-family: ff-basic-gothic-pro, sans-serif;
+font-weight: 300;
+font-style: normal;
+  margin: 0;
+}
+
+/* Header/logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
 }
 .iframe{
 	align-content: center;
