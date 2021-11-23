@@ -1,12 +1,9 @@
 @charset "UTF-8";
-/* CSS Document */
-
-@import url("index.html.css");
 header{
 	background color: 
 }
 body{
-	background background-image: image("cmyk ridge.jpeg");
+	background background-image: url("images/ssbkgrnd.jpg");
 	background background-size: contain;
 }
 .iframe{
